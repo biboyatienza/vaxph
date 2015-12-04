@@ -11,8 +11,8 @@ email: your-email@domain.com
 description: Your one stop corporate vaccination needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.vacinnephilippines.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: vaxph
+github_username:  vaxph
 
 # Build settings
 markdown: kramdown

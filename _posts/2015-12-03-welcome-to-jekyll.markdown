@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Vaccine Philippines!"
 date:   2015-12-03 08:05:50 +0800
 categories: jekyll update
 ---
